@@ -8,9 +8,11 @@ body,html{
     /* border: 1px solid white; */
     width: 100%;
     overflow: hidden;
+    position: fixed;
 }
 .fill-img{
-    width: 1050px;
+    width: 980px;
+    height: 1900px;
     z-index: 1;
 }
 
