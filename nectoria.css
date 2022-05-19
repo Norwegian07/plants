@@ -19,7 +19,18 @@ body,html{
     height: auto;
     flex-wrap: wrap;
 }
-
+.visit{
+    color: black;
+    height: 80px;
+    box-shadow: 5px 5px 25px black;
+    background: linear-gradient(to right,rgba(101, 250, 255, 0.871),rgba(4, 0, 255, 0.801));
+    font-weight: bold;
+    width: 250px;
+    font-size: 44px;
+    border-radius: 25px;
+    position: absolute;
+    margin: -300px 0 0 500px;
+}
 
 
 
