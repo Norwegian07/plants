@@ -38,55 +38,13 @@ overflow: hidden;
 .visit:hover{
     margin-top: 1395px;
 }
+/* ================== */
 
-/* .fillcolor{
-   
-    width: 100%;
-   display: flex;
-    overflow: hidden;
-}
-.fill-img{
-    display: flex;
-    width: 100%;
-    height: auto;
-    flex-wrap: wrap;
-}
-.visit{
-    color: black;
-    height: 80px;
-    box-shadow: 5px 5px 25px black;
-    background: linear-gradient(to right,rgb(204, 101, 255),rgba(4, 0, 255, 0.801));
-    font-weight: bold;
-    width: 250px;
-    font-size: 44px;
-    border-radius: 25px;
-    position: absolute;
-    margin: -300px 0 0 500px;
-}
-.maintext{
-  color: wheat;
-    font-size: 75px;
-    position: absolute;
-    font-weight: bolder;
-    margin: 450px 0 0 300px;
-font-family: 'Times New Roman', Times, serif;
-}
-.square{
-    box-shadow: 2px 5px 50px #050A30;
-    margin: -400px 0 0 0;
-    transform: rotate(135deg);
-    width: 1000px;
-    height: 1000px;
-    position: absolute;
-    background-color: #050A30;
-}
-.welcome-note{
-    font-size: 95px;
-    color: antiquewhite;
-    position: absolute;
-    font-weight: bolder;
-    margin: 250px 0 0 150px;
-} */
+
+
+
+
+
 
 
 
