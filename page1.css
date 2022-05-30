@@ -154,10 +154,26 @@ background-color: rgba(0, 0, 0, 0.667);
   font-size: 32px;  
   margin: 40px 0 0 25px;
 }
-.s2plant-price{
+.s2plant-actualprice{
     font-weight: bolder;
     font-size: 40px;
     margin: 25px 0 0 25px;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    color: rgba(101, 101, 101, 0.8);
+}
+.off{
+    position: absolute;
+    font-size: 38px;
+    margin: -45px 0 0 165px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: green;
+}
+.s2plant-price{
+    font-weight: bolder;
+    font-size: 40px;
+    margin: 15px 0 0 25px;
     font-family: sans-serif;
 }
 
