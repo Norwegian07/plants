@@ -59,14 +59,14 @@ background-color: rgba(0, 0, 0, 0.667);
 .div-main-container{
     width: 100%;
     margin-top: 100px;
-    height: 1300px;
+    height: 1200px;
     overflow: scroll;
     /* border: 1px solid black; */
 }
 
 .image-holder{
     width: 250%;
-    height: 1300px;
+    height: 1200px;
     /* border: 4px solid black; */
 }
 .img-contains{
@@ -122,54 +122,45 @@ background-color: rgba(0, 0, 0, 0.667);
 
 /* --------------------------- */
 
-.main2-imgholder{
-    float: left;
-    width: 455px;
+.section2-holder{
+    width: 100%;
+    height:1500px;
+    /* border: 3px solid RED; */
+}
+/* .s2image-holder{
+    width: 95%;
+    height: 1400px;
+    border: 3px solid RED;
+margin: 2.5%;
+} */
+.s2img-holder{
+    width: 445px;
     height: 600px;
-    margin:0 0 45px 25px;
-    border-radius: 35px;
-    box-shadow: 2px 2px 15px;
-    /* border: 2px solid black; */
+    border: none;
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    box-shadow: 2px 2px 12px;
+    float: left;
+    margin: 0px 0px 80px 40px; 
+}
+.s2img{
+    width: 280px;
+    margin: 25px 0 0 15px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10.5px;
+    border: none;
+}
+.s2plant-name{
+  font-size: 32px;  
+  margin: 40px 0 0 25px;
+}
+.s2plant-price{
+    font-weight: bolder;
+    font-size: 40px;
+    margin: 25px 0 0 25px;
+    font-family: sans-serif;
 }
 
-.main2img{
-    margin: 28px 0 0 25px; 
-    width: 250px;
-    height: 250px;
-    border-radius: 35px;
-    box-shadow: 2px 2px 5px;
-  border: none;
-}
-.text-holder{
-    position: absolute;
-    margin: -280px 0 0 280px;
-    text-align: center;
-}
-.main2-text{
-    font-size: 34px;
-    width: 150px;
-    font-family: 'Times New Roman', Times;
-  font-weight: bolder;
-    /* border: 1px solid black; */
-}
-.cart2{
-    width: 360px;
-    height: 80px;
-    font-size: 40px;
-    border-radius: 25px;
-    margin: 155px 0 0 40px;
-}
-.price2{
-    position: absolute;
-    font-size: 45px;
-    font-weight: bold;
-    margin: 140px 0 0 -205px;
-    color: rgb(242, 89, 23);
-}
-.main2-imgholder:hover{
-    z-index: 1;
-    background: black;
-    color: whitesmoke;
-}
+
 
 }
