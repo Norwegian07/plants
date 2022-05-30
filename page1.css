@@ -143,7 +143,7 @@ background-color: rgba(0, 0, 0, 0.667);
     border-radius: 25px;
     box-shadow: 2px 2px 12px;
     float: left;
-    margin: 0px 0px 80px 45px; 
+    margin: 0px 0px 100px 45px; 
 }
 .s2img{
     width: 280px;
@@ -198,15 +198,23 @@ background-color: rgba(0, 0, 0, 0.667);
     transition: 0.5s;
 } */
 
-.circle{
+.circle,.circle1{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.89);
+    background-color: #193028;
     position: absolute;
-    margin: -35px 0 0 300px;
-    box-shadow: 0px 0px 12.5px;
+    margin: -23px 0 0 300px;
+    box-shadow: 0px 0px 2.5px;
     border: none;
+}
+.circle1 svg{
+width: 70px;
+height: 70px;
+position: absolute;
+z-index: 2;
+color: greenyellow;
+margin: 15px;
 }
 .line4,.line5{
     width: 65px;
