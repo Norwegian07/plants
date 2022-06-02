@@ -131,7 +131,7 @@ background-color: rgba(0, 0, 0, 0.667);
     /* border: 1px solid black; */
 }
 .catagory{
-    width: 170%;
+    width: 178%;
     height: 300px;
     margin-top: 5px;
 }
@@ -155,10 +155,10 @@ background-color: rgba(0, 0, 0, 0.667);
 }
 .in-text,.out-text,.flow-text,.air-text{
     font-size: 45px;
-    margin: 5px 0 0 70px;
+    margin: 5px 0 0 65px;
 }
 .out-text{
-    margin: 5px 0 0 50px;
+    margin: 5px 0 0 45px;
 }
 .flow-text{
     margin: 5px 0 0 35px;
