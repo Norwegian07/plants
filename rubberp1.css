@@ -34,23 +34,23 @@ table{
     font-size: 55px;
     margin: 40px 0 0 15px;
 }
-td{
+/* td{
     width: 500px;
-}
+} */
 th{
     font-weight: normal;
     width: 400px;
 }
 .adbuynow-button-holder{
-    margin: 50px 0 0 0;
+    margin: 50px 0 0 70px;
 }
 .addtocart,.buynowru1{
     font-size: 60px;
     width: 450px;
     height: 130px;
     border-radius: 25px;
-    box-shadow: 2px 2px 10.5px rgb(31, 154, 31);
-    margin: 50px 0 0 250px;
-background-color: rgb(60, 255, 60);
+    box-shadow: 2px 2px 10.5px;
+/* background-color: rgb(60, 255, 60); */
 border: none;
+margin-left: 25px;
 }
