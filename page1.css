@@ -131,7 +131,7 @@ background-color: rgba(0, 0, 0, 0.667);
     /* border: 1px solid black; */
 }
 .catagory{
-    width: 188%;
+    width: 178%;
     height: 300px;
     margin-top: 5px;
 }
@@ -154,19 +154,19 @@ background-color: rgba(0, 0, 0, 0.667);
     border-radius: 50%;
 }
 .in-text,.out-text,.flow-text,.air-text{
-    font-size: 45px;
-    margin: 5px 0 0 65px;
+    font-size: 40px;
+    margin: 10px 0 0 65px;
 }
 .out-text{
-    margin: 5px 0 0 45px;
+    margin: 10px 0 0 45px;
 }
 .flow-text{
-    margin: 5px 0 0 35px;
+    margin: 10px 0 0 35px;
 }
 .air-text{
     width: 270px;
     /* border: 1px solid black; */
-    margin: 5px 0 0 35px;
+    margin: 10px 0 0 35px;
 }
 .heading{
     font-size: 50px;
