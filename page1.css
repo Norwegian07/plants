@@ -165,8 +165,8 @@ background-color: rgba(0, 0, 0, 0.667);
 }
 .air-text{
     width: 270px;
-    border: 1px solid black;
-    /* margin: 5px 0 0 35px; */
+    /* border: 1px solid black; */
+    margin: 5px 0 0 35px;
 }
 .heading{
     font-size: 50px;
@@ -297,6 +297,46 @@ margin: 15px;
 
 .section3-holder{
     margin-top: 50px;
+}
+
+
+
+/* -----section4---- */
+.section4{
+    margin: 100px 0 0 0;
+    width: 100%;
+    height: 650px;
+    overflow: scroll;
+    /* border: 1px solid black; */
+}
+
+.se4-holder{
+    width: 150%;
+    height: 650px;
+}
+.se4-holder a{
+    text-decoration: none;
+}
+.combo-one{
+    float: left;
+    margin-left: 50px;
+    width: 600px;
+}
+.combo-pack{
+    width: 650px;
+}
+.combo-img{
+    border-radius: 25px;
+    margin: 20px 0 0 50px;
+    border: none;
+    width: 550px;
+    box-shadow: 0px 0px 8.5px;
+}
+.combo-text{
+    font-size: 55PX;
+    color: black;
+    margin: 5px 0 0 180px;
+
 }
 
 /* ======================
